@@ -14,7 +14,7 @@ elif monto>100000 and monto<=700000:
     descuento=11
 elif monto>700000 and monto<=1500000:
     p=monto*0.18
-    descuento=10
+    descuento=18
 elif monto>1500000:
     p=monto*0.25
     descuento=25
