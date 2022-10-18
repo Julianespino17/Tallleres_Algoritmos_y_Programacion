@@ -34,7 +34,7 @@ elif((mes_nacimiento==12 and dia_nacimiento>=22) or (mes_nacimiento==1 and dia_n
 elif((mes_nacimiento==1 and dia_nacimiento>=21) or(mes_nacimiento==2 and dia_nacimiento<=19)):
     s="acuario"
 elif((mes_nacimiento==2 and dia_nacimiento>=20)or (mes_nacimiento==3 and dia_nacimiento<=19)):
-    S="pisis"
+    s="pisis"
 elif((mes_nacimiento==3 and dia_nacimiento>=21) or(mes_nacimiento==4 and dia_nacimiento<=20)):
     s="aries"
 elif((mes_nacimiento==4 and dia_nacimiento>=21) or(mes_nacimiento==5 and dia_nacimiento<=21)):
